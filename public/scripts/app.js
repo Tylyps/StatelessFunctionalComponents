@@ -221,4 +221,4 @@ var AddOption = function (_React$Component2) {
 // };
 
 
-ReactDOM.render(React.createElement(IndecisionApp, { options: ['option one'] }), appRoot);
+ReactDOM.render(React.createElement(IndecisionApp, null), appRoot);
